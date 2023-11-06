@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="" tvg-shift=-10 m3uautoload=1
 
-#MAIN DTV1 (720p)
+#MAIN OTT
 成人輪播台（限时推送）
 台湾松视1台
 http://193.233.206.48:8090/live/rx3/402/39cd9e52d157a4a11fe18823b1c2a3da/index.m3u8
@@ -44,9 +44,8 @@ https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
 Private TV HD
 https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="62965" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV1 (720P)",NHK総合 東京 (720p Willfon)
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
+#EXTINF:-1 tvg-id="62965" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="OTT",極限電影臺
+http://64.31.55.194/JStar/video.m3u8
 #EXTINF:-1 tvg-id="62966" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV1 (720P)",NHK教育 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
