@@ -397,61 +397,133 @@ http://2022spn.net:8080/play/eSoSxuEQhTCqMmpm7_dAWgc7nbAGK_8w0Pb9qleHYMc
 http://2022spn.net:8080/play/eSoSxuEQhTCqMmpm7_dAWqTX5o0iSxZyDhJlEUskhpY
 #EXTINF:-1,XXX: MiamiTV Naked Yoga
 http://2022spn.net:8080/play/eSoSxuEQhTCqMmpm7_dAWv2xCFzceM2sZMzlEfUKrAU
+#EXTINF:-1,PornBox 4 
+http://23.237.100.82:8000/BRAZZERS/index.m3u8
+#EXTINF:-1,Eroxx
+https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
+#EXTINF:-1,Penthouse Gold 
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1,RedLight HD 
+http://51.159.102.100/RedlightHD/index.m3u8 
+#EXTINF:-1,Hustler TV 
+http://146.59.54.163/349/index.m3u8 
+#EXTINF:-1,O La La 
+http://146.59.54.163/350/index.m3u8
+#EXTINF:-1,Babes TV
+http://146.59.54.163/354/index.m3u8 
+#EXTINF:-1,RedLight HD 
+http://146.59.54.163/358/index.m3u8 
+#EXTINF:-1,VividRed 
+http://146.59.54.163/361/index.m3u8 
+#EXTINF:-1,XXL TV 
+http://146.59.54.163/363/index.m3u8 
+#EXTINF:-1,Brazzers TV 
+https://cdn-main.lolokoko.tv/brazzers.stream/chunks.m3u8
+#EXTINF:-1,Dorcel TV 
+https://cdn-main.lolokoko.tv/DorcelTV.stream/chunks.m3u8 
+#EXTINF:-1,Hustler HD 
+https://cdn-main.lolokoko.tv/hustler.stream/chunks.m3u8 
+#EXTINF:-1,XXL 
+https://cdn-main.lolokoko.tv/xxl.stream/chunks.m3u8 
+#EXTINF:-1,EroX 
+https://cdn-main.lolokoko.tv/Eroxx.stream/chunks.m3u8 
+#EXTINF:-1,EroXXX 
+https://cdn-main.lolokoko.tv/Eroxxx.stream/chunks.m3u8 
+#EXTINF:-1,Private TV 
+https://cdn-main.lolokoko.tv/private.stream/chunks.m3u8 
+#EXTINF:-1,O La La 
+http://31.148.48.15/O-la-la/index.m3u8
+#EXTINF:-1,PureTaboo 
+http://78.47.224.234/puretaboo/index.m3u8 
+#EXTINF:-1,PornBox 1 
+http://23.237.100.82:8000/PLAYBOY/index.m3u8 
+#EXTINF:-1,PornBox 2 
+http://23.237.100.82:8000/HUSTLER/index.m3u8 
+#EXTINF:-1,PornBox 3 
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
 
 
-#EXTINF:-1,tvg-id="62965" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="OTT",極限電影臺
+EXTINF:-1,tvg-id="62965" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="OTT",極限電影臺
 http://64.31.55.194/JStar/video.m3u8
-#EXTINF:-1,tvg-id="62966" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV1 (720P)",NHK教育 (720p Willfon)
+EXTINF:-1,tvg-id="62966" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV1 (720P)",NHK教育 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1,tvg-id="62967" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",group-title="DTV1 (720P)",日本テレビ (720p Willfon)
+EXTINF:-1,tvg-id="62967" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",group-title="DTV1 (720P)",日本テレビ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1,tvg-id="62969" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="DTV1 (720P)",TBSテレビ (720p Willfon)
+EXTINF:-1,tvg-id="62969" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="DTV1 (720P)",TBSテレビ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1,tvg-id="62971" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV1 (720P)",フジテレビ (720p Willfon)
+EXTINF:-1,tvg-id="62971" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV1 (720P)",フジテレビ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1,tvg-id="62968" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV1 (720P)",テレビ朝日 (720p Willfon)
+EXTINF:-1,tvg-id="62968" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV1 (720P)",テレビ朝日 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1,tvg-id="62970" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="DTV1 (720P)",テレビ東京 (720p Willfon)
+EXTINF:-1,tvg-id="62970" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="DTV1 (720P)",テレビ東京 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 rostelekom,#genre#
-#EXTINF:-1,Unknown_5010,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5009/index.m3u8
-#EXTINF:-1,Unknown_5011,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5010/index.m3u8
-#EXTINF:-1,Unknown_5012,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5011/index.m3u8
-#EXTINF:-1,Unknown_5013,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5012/index.m3u8
-#EXTINF:-1,Unknown_5014,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5013/index.m3u8
-#EXTINF:-1,Unknown_5015,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5014/index.m3u8
-#EXTINF:-1,Unknown_5016,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5015/index.m3u8
-#EXTINF:-1,Unknown_6165,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6164/index.m3u8
-#EXTINF:-1,Unknown_6166,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6165/index.m3u8
-#EXTINF:-1,Unknown_6167,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6166/index.m3u8
-#EXTINF:-1,Unknown_6168,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6167/index.m3u8
-#EXTINF:-1,Unknown_6169,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6168/index.m3u8
-#EXTINF:-1,Unknown_6170,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6169/index.m3u8
-#EXTINF:-1,Unknown_6171,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6170/index.m3u8
-#EXTINF:-1,Unknown_6172,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6171/index.m3u8
-#EXTINF:-1,Unknown_6173,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6172/index.m3u8
-#EXTINF:-1,Unknown_6174,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6173/index.m3u8
-#EXTINF:-1,Unknown_6175,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6174/index.m3u8
-#EXTINF:-1,Unknown_6176,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6175/index.m3u8
-#EXTINF:-1,Unknown_6177,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6176/index.m3u8
-#EXTINF:-1,Unknown_6178,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6177/index.m3u8
-#EXTINF:-1,Unknown_6179,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6178/index.m3u8
-#EXTINF:-1,Unknown_6180,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6179/index.m3u8
-#EXTINF:-1,Unknown_6181,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6180/index.m3u8
-#EXTINF:-1,Unknown_6182,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6181/index.m3u8
-#EXTINF:-1,Unknown_6183,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6182/index.m3u8
-#EXTINF:-1,Unknown_6184,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6183/index.m3u8
-#EXTINF:-1,Unknown_6185,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6184/index.m3u8
-#EXTINF:-1,Unknown_6186,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6185/index.m3u8
-#EXTINF:-1,Unknown_6187,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6186/index.m3u8
-#EXTINF:-1,Unknown_6188,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6187/index.m3u8
-#EXTINF:-1,Unknown_6189,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6188/index.m3u8
-#EXTINF:-1,Unknown_6190,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6189/index.m3u8
+#EXTINF:-1,Unknown_5010,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5009/index.m3u8
+#EXTINF:-1,Unknown_5011,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5010/index.m3u8
+#EXTINF:-1,Unknown_5012,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5011/index.m3u8
+#EXTINF:-1,Unknown_5013,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5012/index.m3u8
+#EXTINF:-1,Unknown_5014,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5013/index.m3u8
+#EXTINF:-1,Unknown_5015,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5014/index.m3u8
+#EXTINF:-1,Unknown_5016,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/5015/index.m3u8
+#EXTINF:-1,Unknown_6165,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6164/index.m3u8
+#EXTINF:-1,Unknown_6166,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6165/index.m3u8
+#EXTINF:-1,Unknown_6167,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6166/index.m3u8
+#EXTINF:-1,Unknown_6168,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6167/index.m3u8
+#EXTINF:-1,Unknown_6169,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6168/index.m3u8
+#EXTINF:-1,Unknown_6170,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6169/index.m3u8
+#EXTINF:-1,Unknown_6171,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6170/index.m3u8
+#EXTINF:-1,Unknown_6172,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6171/index.m3u8
+#EXTINF:-1,Unknown_6173,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6172/index.m3u8
+#EXTINF:-1,Unknown_6174,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6173/index.m3u8
+#EXTINF:-1,Unknown_6175,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6174/index.m3u8
+#EXTINF:-1,Unknown_6176,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6175/index.m3u8
+#EXTINF:-1,Unknown_6177,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6176/index.m3u8
+#EXTINF:-1,Unknown_6178,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6177/index.m3u8
+#EXTINF:-1,Unknown_6179,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6178/index.m3u8
+#EXTINF:-1,Unknown_6180,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6179/index.m3u8
+#EXTINF:-1,Unknown_6181,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6180/index.m3u8
+#EXTINF:-1,Unknown_6182,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6181/index.m3u8
+#EXTINF:-1,Unknown_6183,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6182/index.m3u8
+#EXTINF:-1,Unknown_6184,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6183/index.m3u8
+#EXTINF:-1,Unknown_6185,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6184/index.m3u8
+#EXTINF:-1,Unknown_6186,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6185/index.m3u8
+#EXTINF:-1,Unknown_6187,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6186/index.m3u8
+#EXTINF:-1,Unknown_6188,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6187/index.m3u8
+#EXTINF:-1,Unknown_6189,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6188/index.m3u8
+#EXTINF:-1,Unknown_6190,
+http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6189/index.m3u8
 Unknown_6191,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6190/index.m3u8
 Unknown_6192,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6191/index.m3u8
 Unknown_6193,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6192/index.m3u8
